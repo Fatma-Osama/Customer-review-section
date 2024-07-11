@@ -1,6 +1,4 @@
 
-
-
 let progressList = document.querySelectorAll('.rating-progress')
 
 for(let n of progressList){
